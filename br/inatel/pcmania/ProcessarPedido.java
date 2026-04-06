@@ -1,0 +1,8 @@
+package br.inatel.pcmania;
+
+public class ProcessarPedido {
+    public static void processar(Computador[] computadores)
+    {
+        System.out.println("pedido enviado");
+    }
+}
